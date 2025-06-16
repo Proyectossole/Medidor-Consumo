@@ -1,2 +1,2 @@
-# Medidor-Consum
+# Medidor-Consumo
 Medidor-Consum
